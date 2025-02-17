@@ -1,4 +1,5 @@
-Entry project to Spring Boot implementing a Rest API on a Tomcat Web Server using a PostgreSQL database. Packaged in a docker container and deployed to AWS Lightsail
+Entry project to Spring Boot implementing a Rest API on a Tomcat Web Server using a PostgreSQL database. 
+
 
 01 JDBC Template DAO Familiarization
 
